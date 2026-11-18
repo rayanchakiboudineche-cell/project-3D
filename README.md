@@ -9,9 +9,6 @@ An interactive real-time 3D scene: a golden wireframe sphere floating in a starr
 <p align="center">
   <img src="./3d/public/screenshot.png" alt="Project 3D preview" width="800" />
 </p>
-
-> 💡 Add your screenshot to the `3d/public/` folder as `screenshot.png` (or change the path above).
-
 ---
 
 ## ✨ Features
