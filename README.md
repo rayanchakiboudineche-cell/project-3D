@@ -1,31 +1,31 @@
-# 🌌 Project 3D
+#  Project 3D
 
 An interactive real-time 3D scene: a golden wireframe sphere floating in a starry sky, right in your browser.
 
 ---
 
-## 📸 Preview
+##  Preview
 
 <p align="center">
   <img src="./3d/public/screenshot.png" alt="Project 3D preview" width="800" />
 </p>
 ---
 
-## ✨ Features
+##  Features
 
 - Real-time 3D rendering in the browser
 - Animated wireframe sphere
 - Starry background
 - Instant hot reload in development thanks to Vite
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
 - [Three.js](https://threejs.org/)
 - [ESLint](https://eslint.org/)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 project-3D/
@@ -39,7 +39,7 @@ project-3D/
 └── README.md
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repository**
 
@@ -62,7 +62,7 @@ project-3D/
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## 📜 Available Scripts
+##  Available Scripts
 
 | Command           | Description                         |
 | ----------------- | ----------------------------------- |
@@ -71,13 +71,13 @@ project-3D/
 | `npm run preview` | Previews the production build       |
 | `npm run lint`    | Checks the code with ESLint         |
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] Add mouse controls (rotate, zoom)
 - [ ] Change the sphere color dynamically
 - [ ] Add more 3D shapes
 - [ ] Deploy the project online (Vercel / Netlify)
 
-## 👤 Author
+##  Author
 
 **chakib oudineche** — [GitHub](https://github.com/rayanchakiboudineche-cell)
